@@ -24,7 +24,7 @@ for (let item of arr) {
 // for item in arr:
 //    print(item);
 
-// .class jv
+// .class java
 // for (Integer item: arr) {
 //      System.out.println(item);
 //}
